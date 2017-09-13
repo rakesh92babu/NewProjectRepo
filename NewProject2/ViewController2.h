@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ViewController2.h
 //  NewProject2
 //
 //  Created by student on 9/13/17.
@@ -8,9 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-@property NSMutableArray * vivek;
+@interface ViewController2 : UIViewController
 
 @end
-
